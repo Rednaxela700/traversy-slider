@@ -4,4 +4,26 @@
   margin: 0;
 }
 
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #fff;
+  background-color: darkgrey;
+}
+
+.header-h1 {
+  padding: 1rem;
+}
+
+.slider-container {
+  display: flex;
+  justify-content: center;
+}
+.slider-img {
+  display: block;
+  padding: 1rem;
+  width: 400px;
+  height: 200px;
+}
+
 /*# sourceMappingURL=main.css.map */
