@@ -1,9 +1,9 @@
 /**
  * Created by alexander on 23/07/2019.
  */
-var i = 0; // Start point
-var images = [];
-var time = 3000;
+let i = 0; // Start point
+let images = [];
+const time = 3000;
 
 //Image list
 images[0] = 'img/img-1.jpg';
